@@ -1,3 +1,17 @@
-[gd_scene format=3 uid="uid://lb0jtskcovi2"]
+[gd_scene load_steps=3 format=3 uid="uid://lb0jtskcovi2"]
 
-[node name="Node2D" type="Node2D"]
+[ext_resource type="Texture2D" uid="uid://dy4wqckrtvqc0" path="res://assets/Player.png" id="1_x0ihc"]
+[ext_resource type="Texture2D" uid="uid://dvjlt5ms0j1hh" path="res://assets/Bill.png" id="2_ujv01"]
+
+[node name="Game" type="Node2D"]
+
+[node name="Bill" type="Sprite2D" parent="."]
+position = Vector2(744, 429)
+scale = Vector2(2.44531, 1.69824)
+texture = ExtResource("2_ujv01")
+flip_h = true
+
+[node name="Player" type="Sprite2D" parent="."]
+position = Vector2(369, 391)
+scale = Vector2(2.21094, 1.95898)
+texture = ExtResource("1_x0ihc")
