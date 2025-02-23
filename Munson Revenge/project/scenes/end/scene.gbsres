@@ -2,16 +2,16 @@
   "_resourceType": "scene",
   "id": "fe1a0a70-b893-4e32-8f1d-248719802d2a",
   "_index": 7,
-  "name": "Scene 8",
+  "name": "End",
   "backgroundId": "0b618dd7-b291-473d-8434-35bbe339d27e",
   "tilesetId": "",
   "width": 20,
   "height": 18,
-  "type": "LOGO",
+  "type": "TOPDOWN",
   "paletteIds": [],
   "spritePaletteIds": [],
   "collisions": "00168+",
-  "autoFadeSpeed": 2,
+  "autoFadeSpeed": 3,
   "symbol": "scene_8",
   "x": 840,
   "y": 184,
@@ -19,5 +19,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "playerSpriteSheetId": ""
+  "playerSpriteSheetId": "002ac15b-6e13-4395-983f-1f07cabbccd2"
 }
