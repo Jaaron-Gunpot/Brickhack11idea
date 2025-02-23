@@ -1,10 +1,10 @@
 {
   "_resourceType": "actor",
-  "id": "dfce71f7-d11f-4468-b07c-953edc2a7366",
-  "name": "",
+  "id": "f4c22737-03b5-4b62-89b5-3fa8b107f37c",
+  "name": "Enemy 1",
   "frame": 0,
   "animate": false,
-  "spriteSheetId": "0fdeaf2e-4115-4178-ac68-736872bd6838",
+  "spriteSheetId": "32188169-623e-4535-8b58-ae2a54eb58fe",
   "prefabId": "",
   "direction": "down",
   "moveSpeed": 1,
@@ -14,38 +14,13 @@
   "persistent": false,
   "collisionGroup": "",
   "prefabScriptOverrides": {},
-  "symbol": "actor_0",
+  "symbol": "actor_1",
   "script": [
     {
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "Bill:Sergio, RIT\nneeds your help"
-        ],
-        "__section": "behavior",
-        "avatarId": "",
-        "minHeight": 4,
-        "maxHeight": 7,
-        "textX": 1,
-        "textY": 1,
-        "textHeight": 5,
-        "position": "bottom",
-        "clearPrevious": true,
-        "showFrame": "true",
-        "speedIn": -1,
-        "speedOut": -1,
-        "closeWhen": "text",
-        "closeButton": "a",
-        "closeDelayTime": 2,
-        "closeDelayFrames": 30
-      },
-      "id": "417bd08f-880f-44bb-a1c8-0bde3d622245"
-    },
-    {
-      "command": "EVENT_TEXT",
-      "args": {
-        "text": [
-          "Bill:Munson has\nstarted anarchy"
+          "Beep boop..."
         ],
         "__section": "text",
         "avatarId": "",
@@ -62,26 +37,28 @@
         "closeWhen": "key",
         "closeButton": "a",
         "closeDelayTime": 0.5,
-        "closeDelayFrames": 30
+        "closeDelayFrames": 30,
+        "__collapse": true
       },
-      "id": "313f35dd-88f9-4d2f-bdc9-ba6bfd7a8857"
+      "id": "75aba69e-c6d5-4e8f-9f2e-bf6b7c772409"
     },
     {
       "command": "EVENT_SWITCH_SCENE",
       "args": {
-        "sceneId": "6e344ea6-95a9-49a5-94ef-d4a7e819a532",
+        "sceneId": "f9c357c1-1439-45e5-849e-b1e4a15c7acd",
         "x": {
           "type": "number",
-          "value": 2
+          "value": 0
         },
         "y": {
           "type": "number",
-          "value": 3
+          "value": 0
         },
         "direction": "",
-        "fadeSpeed": "2"
+        "fadeSpeed": "2",
+        "__collapse": false
       },
-      "id": "3761fa72-88b0-4978-a796-d1aa8aa91e1b"
+      "id": "b231b1a9-62ce-4797-a6ce-0ac0c82f3933"
     }
   ],
   "startScript": [],
@@ -89,7 +66,7 @@
   "hit1Script": [],
   "hit2Script": [],
   "hit3Script": [],
-  "x": 2,
+  "x": 15,
   "y": 3,
   "_index": 0
 }

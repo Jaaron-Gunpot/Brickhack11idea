@@ -19,7 +19,7 @@
     "",
     ""
   ],
-  "autoFadeSpeed": 3,
+  "autoFadeSpeed": 5,
   "script": [
     {
       "command": "EVENT_SWITCH_SCENE",
