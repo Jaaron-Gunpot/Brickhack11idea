@@ -54,7 +54,7 @@
                 "value": "L1"
               },
               "__collapseElse": true,
-              "__collapse": true
+              "__collapse": false
             },
             "children": {
               "true": [
@@ -64,9 +64,9 @@
                     "text": [
                       "Pick a class!"
                     ],
-                    "__section": "text",
+                    "__section": "layout",
                     "avatarId": "",
-                    "minHeight": 6,
+                    "minHeight": 4,
                     "maxHeight": 7,
                     "textX": 1,
                     "textY": 1,
@@ -99,7 +99,7 @@
                     "option8": "",
                     "cancelOnB": true,
                     "layout": "dialogue",
-                    "__collapse": false
+                    "__collapse": true
                   },
                   "id": "58c75481-c6f3-4c83-a98d-f45a4a7435ef"
                 },
