@@ -1,0 +1,22 @@
+{
+  "_resourceType": "scene",
+  "id": "e8eb0843-3a98-4598-b19b-98f6edefb890",
+  "_index": 2,
+  "name": "Golisano (Level 1)",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_3",
+  "x": 337,
+  "y": 261,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

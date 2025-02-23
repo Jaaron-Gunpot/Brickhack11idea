@@ -3,7 +3,7 @@
   "id": "35d0ecba-1e34-4301-a1fa-b24dd6715f75",
   "_index": 0,
   "type": "LOGO",
-  "name": "Scene 1",
+  "name": "Logo",
   "symbol": "scene_1",
   "labelColor": "red",
   "x": 80,
@@ -34,7 +34,8 @@
           "value": 0
         },
         "direction": "",
-        "fadeSpeed": 3
+        "fadeSpeed": 3,
+        "__collapse": true
       },
       "id": "d22eb38b-1301-4235-b532-e8190be1010d"
     },
@@ -59,7 +60,9 @@
         "closeWhen": "key",
         "closeButton": "a",
         "closeDelayTime": 0.5,
-        "closeDelayFrames": 30
+        "closeDelayFrames": 30,
+        "__collapse": false,
+        "__comment": true
       },
       "id": "467ed292-a73a-4730-becf-31b3fbe5aff7"
     }

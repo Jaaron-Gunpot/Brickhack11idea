@@ -1,4 +1,10 @@
 {
   "_resourceType": "variables",
-  "variables": []
+  "variables": [
+    {
+      "id": "45a0401e-8f80-4877-9ed1-70942a457d07__L0",
+      "name": "Menu Choice",
+      "symbol": "var_menu_choice"
+    }
+  ]
 }
