@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "6fa79d73-b10a-4d29-8213-5f24da3f59b7",
+  "name": "initals",
+  "symbol": "bg_initals",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "initals.png",
+  "tileColors": ""
+}
