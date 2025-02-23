@@ -20,7 +20,47 @@
           "frames": [
             {
               "id": "d224fa0a-e718-4a7c-8fa3-63f224fc6e35",
-              "tiles": []
+              "tiles": [
+                {
+                  "id": "4903c742-ad14-4f1a-99ec-c7b3ae39b428",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 120,
+                  "sliceY": 64,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "2dcf3c9e-d04f-40c1-89c6-dd91788bf0a1",
+                  "x": 0,
+                  "y": 0,
+                  "sliceX": 96,
+                  "sliceY": 88,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                },
+                {
+                  "id": "1ab66bde-f1ed-487b-ae0c-eb57a7b71803",
+                  "x": 8,
+                  "y": 0,
+                  "sliceX": 104,
+                  "sliceY": 88,
+                  "palette": 0,
+                  "flipX": false,
+                  "flipY": false,
+                  "objPalette": "OBP0",
+                  "paletteIndex": 0,
+                  "priority": false
+                }
+              ]
             }
           ]
         },
@@ -90,9 +130,9 @@
       ]
     }
   ],
-  "numTiles": 0,
-  "canvasWidth": 32,
-  "canvasHeight": 32,
+  "numTiles": 2,
+  "canvasWidth": 16,
+  "canvasHeight": 16,
   "boundsX": 0,
   "boundsY": 0,
   "boundsWidth": 16,
