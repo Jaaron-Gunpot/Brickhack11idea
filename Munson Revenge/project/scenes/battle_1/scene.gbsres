@@ -3,7 +3,7 @@
   "id": "f9c357c1-1439-45e5-849e-b1e4a15c7acd",
   "_index": 4,
   "name": "Battle 1",
-  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "backgroundId": "064fb918-3460-4a34-83ad-b28967a1bc7e",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -491,11 +491,11 @@
                     "sceneId": "147dfb5c-7b62-4192-8702-8b67e46defe5",
                     "x": {
                       "type": "number",
-                      "value": 3
+                      "value": 17
                     },
                     "y": {
                       "type": "number",
-                      "value": 3
+                      "value": 8
                     },
                     "direction": "",
                     "fadeSpeed": "2"

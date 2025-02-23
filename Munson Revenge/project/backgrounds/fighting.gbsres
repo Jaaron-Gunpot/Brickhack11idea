@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "064fb918-3460-4a34-83ad-b28967a1bc7e",
+  "name": "fighting",
+  "symbol": "bg_fighting",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "fighting.png",
+  "tileColors": ""
+}

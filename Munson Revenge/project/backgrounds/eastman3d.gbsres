@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "9cb04c51-49f8-4623-bfb3-b2097118ea8e",
+  "name": "eastman3d",
+  "symbol": "bg_eastman3d",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "eastman3d.png",
+  "tileColors": ""
+}
