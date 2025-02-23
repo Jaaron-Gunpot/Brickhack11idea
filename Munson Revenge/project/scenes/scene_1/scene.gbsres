@@ -2,24 +2,24 @@
   "_resourceType": "scene",
   "id": "35d0ecba-1e34-4301-a1fa-b24dd6715f75",
   "_index": 0,
+  "type": "LOGO",
   "name": "Scene 1",
-  "backgroundId": "c6b3fbca-3f97-455c-8501-740a4ee1e347",
-  "tilesetId": "",
+  "symbol": "scene_1",
+  "labelColor": "red",
+  "x": 80,
+  "y": 64,
   "width": 20,
   "height": 18,
-  "type": "LOGO",
+  "backgroundId": "c6b3fbca-3f97-455c-8501-740a4ee1e347",
+  "tilesetId": "",
   "paletteIds": [
     ""
   ],
   "spritePaletteIds": [
-    null,
+    "",
     ""
   ],
-  "collisions": "00168+",
   "autoFadeSpeed": 3,
-  "symbol": "scene_1",
-  "x": 80,
-  "y": 64,
   "script": [
     {
       "command": "EVENT_SWITCH_SCENE",
@@ -42,5 +42,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "labelColor": "red"
+  "collisions": "00168+"
 }
