@@ -1,7 +1,9 @@
-[gd_scene load_steps=3 format=3 uid="uid://lb0jtskcovi2"]
+[gd_scene load_steps=5 format=3 uid="uid://lb0jtskcovi2"]
 
 [ext_resource type="Texture2D" uid="uid://dy4wqckrtvqc0" path="res://assets/Player.png" id="1_x0ihc"]
 [ext_resource type="Texture2D" uid="uid://dvjlt5ms0j1hh" path="res://assets/Bill.png" id="2_ujv01"]
+[ext_resource type="Texture2D" uid="uid://cphiimjp0hsc2" path="res://assets/Basic Attack.svg" id="3_j7vek"]
+[ext_resource type="Texture2D" uid="uid://b5kq4mvxtk1uv" path="res://assets/Special.svg" id="4_xvng7"]
 
 [node name="Game" type="Node2D"]
 
@@ -12,6 +14,16 @@ texture = ExtResource("2_ujv01")
 flip_h = true
 
 [node name="Player" type="Sprite2D" parent="."]
-position = Vector2(369, 391)
+position = Vector2(153, 398)
 scale = Vector2(2.21094, 1.95898)
 texture = ExtResource("1_x0ihc")
+
+[node name="BasicAttack" type="Sprite2D" parent="."]
+position = Vector2(82, 283)
+scale = Vector2(6.75, 6.75)
+texture = ExtResource("3_j7vek")
+
+[node name="Special" type="Sprite2D" parent="."]
+position = Vector2(209.25, 285.25)
+scale = Vector2(6.71875, 6.71875)
+texture = ExtResource("4_xvng7")
