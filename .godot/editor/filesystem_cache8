@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1740269299
+icon.svg::CompressedTexture2D::3441169315121023477::1740267441::1740267458::1::::<><>::
+node_2d.tscn::PackedScene::775676680944455631::1740269299::0::1::::<><>::uid://dy4wqckrtvqc0::::res://assets/Player.png<>uid://dvjlt5ms0j1hh::::res://assets/Bill.png<>uid://cphiimjp0hsc2::::res://assets/Basic Attack.svg<>uid://b5kq4mvxtk1uv::::res://assets/Special.svg
+README.md::TextFile::-1::1740269062::0::1::::<><>::
+Attack.gd::GDScript::-1::1740269062::0::1::::Motorcycle<>Node2D<>::
+::res://assets/::1740270804
+Basic Attack.svg::CompressedTexture2D::5840625333427154447::1740269251::1740269285::1::::<><>::
+Bill.png::CompressedTexture2D::8652510579358932725::1740268573::1740268583::1::::<><>::
+Chat.svg::CompressedTexture2D::304417788366091295::1740270129::1740270540::1::::<><>::
+DeepSeek.svg::CompressedTexture2D::9166928538748090685::1740270413::1740270540::1::::<><>::
+Player.png::CompressedTexture2D::8905025721096535445::1740268573::1740268583::1::::<><>::
+Special.svg::CompressedTexture2D::4513753694074099141::1740268749::1740268928::1::::<><>::
+Sprite-0003.png::CompressedTexture2D::8929559909048412295::1740270804::1740270825::1::::<><>::
