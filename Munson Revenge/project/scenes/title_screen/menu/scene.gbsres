@@ -155,11 +155,11 @@
                           "sceneId": "e8eb0843-3a98-4598-b19b-98f6edefb890",
                           "x": {
                             "type": "number",
-                            "value": 0
+                            "value": 3
                           },
                           "y": {
                             "type": "number",
-                            "value": 0
+                            "value": 3
                           },
                           "direction": "",
                           "fadeSpeed": "2",
@@ -274,11 +274,11 @@
                           "sceneId": "e8eb0843-3a98-4598-b19b-98f6edefb890",
                           "x": {
                             "type": "number",
-                            "value": 0
+                            "value": 6
                           },
                           "y": {
                             "type": "number",
-                            "value": 0
+                            "value": 3
                           },
                           "direction": "",
                           "fadeSpeed": "2",
@@ -393,11 +393,11 @@
                           "sceneId": "e8eb0843-3a98-4598-b19b-98f6edefb890",
                           "x": {
                             "type": "number",
-                            "value": 0
+                            "value": 9
                           },
                           "y": {
                             "type": "number",
-                            "value": 0
+                            "value": 3
                           },
                           "direction": "",
                           "fadeSpeed": "2",
@@ -512,11 +512,11 @@
                           "sceneId": "e8eb0843-3a98-4598-b19b-98f6edefb890",
                           "x": {
                             "type": "number",
-                            "value": 0
+                            "value": 13
                           },
                           "y": {
                             "type": "number",
-                            "value": 0
+                            "value": 3
                           },
                           "direction": "",
                           "fadeSpeed": "2",

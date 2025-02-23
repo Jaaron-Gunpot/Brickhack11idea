@@ -3,7 +3,7 @@
   "id": "e8eb0843-3a98-4598-b19b-98f6edefb890",
   "_index": 2,
   "name": "Golisano (Level 1)",
-  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "backgroundId": "6db4c4a6-c835-4ce6-9ada-d9dbea9d774f",
   "tilesetId": "",
   "width": 20,
   "height": 18,
@@ -37,7 +37,8 @@
         "closeWhen": "text",
         "closeButton": "a",
         "closeDelayTime": 2,
-        "closeDelayFrames": 30
+        "closeDelayFrames": 30,
+        "__collapse": true
       },
       "id": "0f9d711f-6267-4122-a268-2f3a529ebc4f"
     },
@@ -62,12 +63,31 @@
         "closeWhen": "key",
         "closeButton": "a",
         "closeDelayTime": 0.5,
-        "closeDelayFrames": 30
+        "closeDelayFrames": 30,
+        "__collapse": true
       },
       "id": "1985c4c3-7761-4faa-9f4e-f91b1b70d574"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "6e344ea6-95a9-49a5-94ef-d4a7e819a532",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": "2"
+      },
+      "id": "b39901ba-e96c-47d9-8257-9569d00b20f9"
     }
   ],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "playerSpriteSheetId": "0fdeaf2e-4115-4178-ac68-736872bd6838"
 }
