@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "95d5ed8c-4420-4235-b661-2c82641dca81",
+  "name": "Bill",
+  "symbol": "bg_bill",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Bill.png",
+  "tileColors": ""
+}
