@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "71027aa5-ec3c-4227-bb36-d5306cadaa42",
+  "name": "Player",
+  "symbol": "bg_player",
+  "width": 32,
+  "height": 32,
+  "imageWidth": 256,
+  "imageHeight": 256,
+  "filename": "Player.png",
+  "tileColors": ""
+}
