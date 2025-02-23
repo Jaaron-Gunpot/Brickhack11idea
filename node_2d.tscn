@@ -14,16 +14,16 @@ texture = ExtResource("2_ujv01")
 flip_h = true
 
 [node name="Player" type="Sprite2D" parent="."]
-position = Vector2(153, 398)
+position = Vector2(220, 353.749)
 scale = Vector2(2.21094, 1.95898)
 texture = ExtResource("1_x0ihc")
 
 [node name="BasicAttack" type="Sprite2D" parent="."]
-position = Vector2(82, 283)
+position = Vector2(149, 238.749)
 scale = Vector2(6.75, 6.75)
 texture = ExtResource("3_j7vek")
 
 [node name="Special" type="Sprite2D" parent="."]
-position = Vector2(209.25, 285.25)
+position = Vector2(276.25, 240.999)
 scale = Vector2(6.71875, 6.71875)
 texture = ExtResource("4_xvng7")
