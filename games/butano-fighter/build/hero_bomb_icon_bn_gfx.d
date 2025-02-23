@@ -1,1 +1,0 @@
-hero_bomb_icon_bn_gfx.o: hero_bomb_icon_bn_gfx.s

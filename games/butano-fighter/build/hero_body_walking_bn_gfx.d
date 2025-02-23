@@ -1,1 +1,0 @@
-hero_body_walking_bn_gfx.o: hero_body_walking_bn_gfx.s

@@ -1,1 +1,0 @@
-stage_1_characters_1_team_bn_gfx.o: stage_1_characters_1_team_bn_gfx.s

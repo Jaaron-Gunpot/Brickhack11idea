@@ -1,1 +1,0 @@
-stage_4_octopus_bn_gfx.o: stage_4_octopus_bn_gfx.s

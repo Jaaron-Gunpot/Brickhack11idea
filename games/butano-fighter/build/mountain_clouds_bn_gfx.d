@@ -1,1 +1,0 @@
-mountain_clouds_bn_gfx.o: mountain_clouds_bn_gfx.s
