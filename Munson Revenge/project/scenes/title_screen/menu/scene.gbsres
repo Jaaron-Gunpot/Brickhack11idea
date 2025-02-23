@@ -33,7 +33,7 @@
     {
       "command": "EVENT_LOOP",
       "args": {
-        "__collapse": false
+        "__collapse": true
       },
       "children": {
         "true": [
@@ -119,7 +119,7 @@
                       }
                     },
                     "__collapseElse": false,
-                    "__collapse": false,
+                    "__collapse": true,
                     "__disableElse": true
                   },
                   "children": {
@@ -128,7 +128,7 @@
                         "command": "EVENT_TEXT",
                         "args": {
                           "text": [
-                            "Available in the \nDLC"
+                            "You have picked \nChristopher!"
                           ],
                           "__section": "text",
                           "avatarId": "",
@@ -164,8 +164,7 @@
                           },
                           "direction": "",
                           "fadeSpeed": "2",
-                          "__collapse": true,
-                          "__comment": true
+                          "__collapse": true
                         },
                         "id": "4e793e34-3f01-45d6-812b-e26552b4c88a"
                       }
@@ -358,7 +357,7 @@
                       }
                     },
                     "__collapseElse": false,
-                    "__collapse": false,
+                    "__collapse": true,
                     "__disableElse": true
                   },
                   "children": {
@@ -367,7 +366,7 @@
                         "command": "EVENT_TEXT",
                         "args": {
                           "text": [
-                            "Available in the \nDLC"
+                            "You have picked \nDiego!"
                           ],
                           "__section": "text",
                           "avatarId": "",
@@ -403,8 +402,7 @@
                           },
                           "direction": "",
                           "fadeSpeed": "2",
-                          "__collapse": true,
-                          "__comment": true
+                          "__collapse": true
                         },
                         "id": "b1e11f24-3c28-4d0b-b6c8-661230880813"
                       }
@@ -478,7 +476,7 @@
                       }
                     },
                     "__collapseElse": false,
-                    "__collapse": false,
+                    "__collapse": true,
                     "__disableElse": true
                   },
                   "children": {
@@ -487,7 +485,7 @@
                         "command": "EVENT_TEXT",
                         "args": {
                           "text": [
-                            "Available in the \nDLC"
+                            "You have picked \nJaaron!"
                           ],
                           "__section": "text",
                           "avatarId": "",
@@ -523,8 +521,7 @@
                           },
                           "direction": "",
                           "fadeSpeed": "2",
-                          "__collapse": true,
-                          "__comment": true
+                          "__collapse": true
                         },
                         "id": "8762a8a7-6a07-4f36-8060-9e68f0cb17b3"
                       }
@@ -623,5 +620,5 @@
   "playerHit2Script": [],
   "playerHit3Script": [],
   "autoFadeEventCollapse": true,
-  "playerSpriteSheetId": "0fdeaf2e-4115-4178-ac68-736872bd6838"
+  "playerSpriteSheetId": "89f48388-8b20-431a-ba17-0de6dde5ed99"
 }
