@@ -42,7 +42,7 @@
               "variable": "L0",
               "trueText": "Start Game",
               "falseText": "Exit Game",
-              "__collapse": true
+              "__collapse": false
             },
             "id": "d38e7491-dff2-4fcb-ace8-0debf7293a5c"
           },
@@ -72,7 +72,7 @@
                     },
                     "direction": "",
                     "fadeSpeed": "2",
-                    "__collapse": true
+                    "__collapse": false
                   },
                   "id": "579de90a-d8b7-4f39-b8a7-745876653c45"
                 }
