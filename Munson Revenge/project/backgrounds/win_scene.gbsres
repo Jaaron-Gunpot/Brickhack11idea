@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "0b618dd7-b291-473d-8434-35bbe339d27e",
+  "name": "Win Scene",
+  "symbol": "bg_win_scene",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Win Scene.png",
+  "tileColors": ""
+}
