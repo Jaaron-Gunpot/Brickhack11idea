@@ -3,14 +3,14 @@
   "id": "45a0401e-8f80-4877-9ed1-70942a457d07",
   "_index": 1,
   "name": "Title Screen/Menu",
-  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "backgroundId": "3c8cd9e8-adba-45dc-b95a-ffca92b64848",
   "tilesetId": "",
   "width": 20,
   "height": 18,
   "type": "TOPDOWN",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "",
+  "collisions": "00168+",
   "autoFadeSpeed": 1,
   "symbol": "scene_2",
   "x": 608,
@@ -25,14 +25,15 @@
           "start",
           "select"
         ],
-        "__collapse": true
+        "__collapse": true,
+        "__comment": true
       },
       "id": "7f9cd23f-bfb0-43de-8ee5-363ae86dc13d"
     },
     {
       "command": "EVENT_LOOP",
       "args": {
-        "__collapse": false
+        "__collapse": true
       },
       "children": {
         "true": [

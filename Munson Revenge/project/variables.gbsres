@@ -2,6 +2,21 @@
   "_resourceType": "variables",
   "variables": [
     {
+      "id": "0",
+      "name": "SpecialAttack",
+      "symbol": "var_specialattack"
+    },
+    {
+      "id": "1",
+      "name": "Battle ended",
+      "symbol": "var_battle_ended"
+    },
+    {
+      "id": "2",
+      "name": "CharName",
+      "symbol": "var_charname"
+    },
+    {
       "id": "45a0401e-8f80-4877-9ed1-70942a457d07__L0",
       "name": "Class Choice",
       "symbol": "var_class_choice_0"
@@ -10,11 +25,6 @@
       "id": "45a0401e-8f80-4877-9ed1-70942a457d07__L1",
       "name": "Menu Choice",
       "symbol": "var_menu_choice"
-    },
-    {
-      "id": "0",
-      "name": "SpecialAttack",
-      "symbol": "var_specialattack"
     },
     {
       "id": "f9c357c1-1439-45e5-849e-b1e4a15c7acd__L0",
@@ -27,11 +37,6 @@
       "symbol": "var_attackchoice"
     },
     {
-      "id": "1",
-      "name": "Battle ended",
-      "symbol": "var_battle_ended"
-    },
-    {
       "id": "c1f758a0-e789-4aa2-a503-b7bf93dfeab8__L0",
       "name": "EnemyHealth",
       "symbol": "var_enemyhealth"
@@ -40,11 +45,6 @@
       "id": "c1f758a0-e789-4aa2-a503-b7bf93dfeab8__L1",
       "name": "AttackChoice",
       "symbol": "var_attackchoice_0"
-    },
-    {
-      "id": "2",
-      "name": "CharName",
-      "symbol": "var_charname"
     }
   ]
 }
